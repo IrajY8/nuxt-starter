@@ -3,7 +3,7 @@
     <div class="home__logo">
       <img src="/batman-logo.svg" />
     </div>
-    <h1>Welcome to your Nacelle Storefront</h1>
+    <h1>Welcome to Iraj's Nacelle Storefront using the Nuxt Starter</h1>
     <p>Edit <code class="inline-code">pages/index.vue</code> to get started.</p>
     <p>
       For help on how to build your storefront,
