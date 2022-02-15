@@ -62,6 +62,7 @@ export default {
   modules: [],
 
   generate: {
+    dir: 'dist',
     crawler: false,
     fallback: true,
     routes: () => buildRoutes()
